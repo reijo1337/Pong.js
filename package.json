@@ -1,0 +1,26 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "I'm trying this to discover node.js & Canvas.",
+  "main": "pongServer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reijo1337/Pong.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reijo1337/Pong.js/issues"
+  },
+  "homepage": "https://github.com/reijo1337/Pong.js#readme"
+}

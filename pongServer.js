@@ -8,4 +8,4 @@
 var Pong = require('./lib/pong.js');
 
 var pong = new Pong();
-pong.init(8010);
+pong.init(5000);
