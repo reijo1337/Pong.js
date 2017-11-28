@@ -7,5 +7,7 @@
 
 var Pong = require('./lib/pong.js');
 
+var port = process.env.PORT || 8000
+
 var pong = new Pong();
-pong.init(5000);
+pong.init(port);
