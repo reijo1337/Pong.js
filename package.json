@@ -11,7 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pongServer.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/reijo1337/Pong.js/issues"
   },
-  "homepage": "https://github.com/reijo1337/Pong.js#readme"
+  "homepage": "https://github.com/reijo1337/Pong.js#readme",
+  "keywords": [
+    "socket",
+    "pong"
+  ]
 }
