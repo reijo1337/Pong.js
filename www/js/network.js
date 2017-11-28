@@ -1,9 +1,3 @@
-/**
- * Pong.js
- * @author Martin Richard
- *
- * Methods handling network
- */
 
 (function() {
 Pong = window.Pong || {};

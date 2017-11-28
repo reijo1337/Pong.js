@@ -1,10 +1,3 @@
-/**
- * Pong.js
- * @author Martin Richard
- *
- * The game root class (initializes the game)
- */
-
 (function($) {
 var Pong;
 

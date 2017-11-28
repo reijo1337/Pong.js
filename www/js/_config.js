@@ -1,10 +1,3 @@
-/**
- * Pong.js
- * @author Martin Richard
- *
- * Configuration
- */
-
 (function() {
 
 var _config = {

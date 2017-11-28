@@ -1,10 +1,3 @@
-/**
- * Pong.js
- * @author Martin Richard
- *
- * Definition of the ball of the game
- */
-
 (function() {
 Pong = window.Pong || {};
 

@@ -1,10 +1,3 @@
-/**
- * Pong.js
- * @author Martin Richard
- *
- * Definition of a player
- */
-
 (function() {
 Pong = window.Pong || {};
 
